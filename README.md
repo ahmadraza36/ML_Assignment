@@ -32,7 +32,7 @@ The project utilizes the **TMDB 5000 / Movies Metadata Dataset**, containing com
 
 ## 5. Dataset Source
 * **Source Platform:** Kaggle Datasets / The Movie Database (TMDB)
-* **Data URL:** [The Movies Dataset on Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
+* **Data URL:** [The Movies Dataset on Kaggle](https://www.kaggle.com/datasets/sibamsamanta07/movies-dataset-45k-films-with-budget-and-revenue?resource=download)
 
 ---
 
