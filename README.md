@@ -97,13 +97,3 @@ The final vector of predictors selected for model training:
 * **Non-Linear Model Advantage:** The **Random Forest Regressor** outperformed standard linear regression, expanding explained variance ($R^2$) to **$60.20\%$** while minimizing mean prediction error ($1.0508$ log-units).
 
 ---
-
-## 12. Instructions to Run the Code
-
-### **Prerequisites**
-Ensure Python 3.8+ is installed on your environment.
-
-### **1. Clone Repository**
-```bash
-git clone [https://github.com/YOUR_USERNAME/movie-revenue-prediction.git](https://github.com/YOUR_USERNAME/movie-revenue-prediction.git)
-cd movie-revenue-prediction
